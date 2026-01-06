@@ -16,8 +16,10 @@ Automatically mount USB drives and copy G-code files for 3D printers on Klipper 
 git clone https://github.com/AntonYankovskiy/klipper-usb-glcd-mount-and-copy
 cd klipper-usb-glcd-mount-and-copy
 sudo make install
+```
 
 ## Удаление
 ```bash
 cd klipper-usb-glcd-mount-and-copy
 sudo make uninstall
+```
