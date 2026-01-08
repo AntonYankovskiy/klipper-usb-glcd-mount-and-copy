@@ -1,6 +1,6 @@
 # Фиксированные пути установки
 BIN_DIR = /usr/local/bin
-UDEV_DIR = /lib/udev/rules.d
+UDEV_DIR = /etc/udev/rules.d
 SCRIPT_NAME = klipper-usb-mount
 UDEV_RULE = 99-klipper-usb.rules
 
